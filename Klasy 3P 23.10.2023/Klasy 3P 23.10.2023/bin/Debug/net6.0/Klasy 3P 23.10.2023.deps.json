@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Klasy 3P 23.10.2023/1.0.0": {
+        "runtime": {
+          "Klasy 3P 23.10.2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasy 3P 23.10.2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
